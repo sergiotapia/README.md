@@ -1,10 +1,3 @@
-# Sergio Tapia
-
-I'm currently Director of Engineering at ![Papa](https://github.com/joinpapa) helping
-people navigate through the aging journey with care and comfort.
-
-https://www.joinpapa.com/
-
 We use a lot of interesting tools here!
 
 - Graphql
