@@ -1,13 +1,10 @@
-We use a lot of interesting tools here!
+VP of Engineering at Papa.
 
-- Graphql
-- Elixir and Phoenix
-- Postgres
-- React
-- React Native
+Some of the languages I enjoy working with are:
 
-I've been learning and using Nim for pet projects, it's a nice minimal, blazing fast language
-that outputs static binaries. I love it!
-
+- Elixir
+- Nim
+- Typescript
+- Javascript
 
 Check out my larger projects ![Magnetissimo](https://github.com/sergiotapia/magnetissimo) and ![Torrentinim](https://github.com/sergiotapia/torrentinim).
