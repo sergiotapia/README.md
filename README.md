@@ -1,5 +1,3 @@
-VP of Engineering at Papa.
-
 Some of the languages I enjoy working with are:
 
 - Elixir
