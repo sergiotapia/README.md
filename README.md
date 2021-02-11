@@ -7,4 +7,4 @@ Some of the languages I enjoy working with are:
 - Typescript
 - Javascript
 
-Check out my larger projects ![Magnetissimo](https://github.com/sergiotapia/magnetissimo) and ![Torrentinim](https://github.com/sergiotapia/torrentinim).
+Check out my larger projects [Magnetissimo](https://github.com/sergiotapia/magnetissimo) and [Torrentinim](https://github.com/sergiotapia/torrentinim).
