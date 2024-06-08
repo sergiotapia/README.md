@@ -1,8 +1,2 @@
-Some of the languages I enjoy working with are:
-
-- Elixir
-- Nim
-- Typescript
-- Javascript
-
-Check out my larger projects [Magnetissimo](https://github.com/sergiotapia/magnetissimo) and [Torrentinim](https://github.com/sergiotapia/torrentinim).
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/LeRubix/LeRubix/blob/main/winxp.png?raw=true');]{x0000}$}
